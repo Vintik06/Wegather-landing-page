@@ -156,7 +156,7 @@ footer {
         display: flex;
         justify-content: center;
         padding-top: 50px;
-        padding-right: 100px;
+        padding-right: 200px;
     }
     .image2 {
         width: 50px;
@@ -171,10 +171,11 @@ footer {
         flex-direction: column;
     }
     .more {
-        margin-left: 290px;
+        margin-left: 240px;
     }
     .p1 {
         text-align: center;
+        
     }
     .image1 {
         padding-left: 50px;
